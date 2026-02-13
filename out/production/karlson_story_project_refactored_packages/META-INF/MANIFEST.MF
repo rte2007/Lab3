@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: story.StorySimulation
+
+scp -P 2222 C:\Users\Mi\Downloads\Lab3-4\out\artifacts\karlson_story_project_refactored_packages_jar\karlson_story_project_refactored_packages.jar s501437@se.ifmo.ru:~
